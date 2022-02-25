@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\bin\Debug\net5.0\09. LeftandRightSum.exe
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\bin\Debug\net5.0\09. LeftandRightSum.deps.json
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\bin\Debug\net5.0\09. LeftandRightSum.runtimeconfig.json
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\bin\Debug\net5.0\09. LeftandRightSum.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\bin\Debug\net5.0\09. LeftandRightSum.dll
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\bin\Debug\net5.0\ref\09. LeftandRightSum.dll
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\bin\Debug\net5.0\09. LeftandRightSum.pdb
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\obj\Debug\net5.0\09. LeftandRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\obj\Debug\net5.0\09. LeftandRightSum.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\obj\Debug\net5.0\09. LeftandRightSum.AssemblyInfo.cs
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\obj\Debug\net5.0\09. LeftandRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\obj\Debug\net5.0\09. LeftandRightSum.dll
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\obj\Debug\net5.0\ref\09. LeftandRightSum.dll
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\obj\Debug\net5.0\09. LeftandRightSum.pdb
+C:\Users\Marina\source\repos\For Loop - Lab\09. LeftandRightSum\obj\Debug\net5.0\09. LeftandRightSum.genruntimeconfig.cache

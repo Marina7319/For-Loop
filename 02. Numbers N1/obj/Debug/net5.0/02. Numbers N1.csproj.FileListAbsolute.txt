@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\bin\Debug\net5.0\02. Numbers N1.exe
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\bin\Debug\net5.0\02. Numbers N1.deps.json
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\bin\Debug\net5.0\02. Numbers N1.runtimeconfig.json
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\bin\Debug\net5.0\02. Numbers N1.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\bin\Debug\net5.0\02. Numbers N1.dll
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\bin\Debug\net5.0\ref\02. Numbers N1.dll
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\bin\Debug\net5.0\02. Numbers N1.pdb
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\net5.0\02. Numbers N1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\net5.0\02. Numbers N1.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\net5.0\02. Numbers N1.AssemblyInfo.cs
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\net5.0\02. Numbers N1.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\net5.0\02. Numbers N1.dll
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\net5.0\ref\02. Numbers N1.dll
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\net5.0\02. Numbers N1.pdb
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\net5.0\02. Numbers N1.genruntimeconfig.cache
+C:\Users\Marina\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\net5.0\02. Numbers N1.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\bin\Debug\net5.0\07. SumNumbers.exe
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\bin\Debug\net5.0\07. SumNumbers.deps.json
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\bin\Debug\net5.0\07. SumNumbers.runtimeconfig.json
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\bin\Debug\net5.0\07. SumNumbers.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\bin\Debug\net5.0\07. SumNumbers.dll
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\bin\Debug\net5.0\ref\07. SumNumbers.dll
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\bin\Debug\net5.0\07. SumNumbers.pdb
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\obj\Debug\net5.0\07. SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\obj\Debug\net5.0\07. SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\obj\Debug\net5.0\07. SumNumbers.AssemblyInfo.cs
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\obj\Debug\net5.0\07. SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\obj\Debug\net5.0\07. SumNumbers.dll
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\obj\Debug\net5.0\ref\07. SumNumbers.dll
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\obj\Debug\net5.0\07. SumNumbers.pdb
+C:\Users\Marina\source\repos\For Loop - Lab\07. SumNumbers\obj\Debug\net5.0\07. SumNumbers.genruntimeconfig.cache
